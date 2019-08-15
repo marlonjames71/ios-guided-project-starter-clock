@@ -21,7 +21,7 @@ struct Hand {
 
 @IBDesignable
 class ClockView: UIView {
-    
+
     // MARK: - Properties
     
     // Used to sync timing of animation events to the refresh rate of the display
